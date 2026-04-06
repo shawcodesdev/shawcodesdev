@@ -1,6 +1,10 @@
 # 💫 About Me:
 I am a developer focused on building practical and scalable applications. I work primarily with Java and modern web technologies, and I am actively improving my backend and full-stack development skills.
 
+I actively seek opportunities to enhance existing products by introducing new features, improving performance, and maintaining clean, maintainable code. Collaboration motivates me—I enjoy working with teams, mentoring peers, and also taking ownership of projects independently.
+
+I am driven by continuous learning and self-improvement, always exploring new technologies and best practices to strengthen my skill set and deliver better outcomes.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aditya-shaw-eng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shawaditya009@gmail.com) 
