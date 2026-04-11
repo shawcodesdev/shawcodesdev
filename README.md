@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Aditya Shaw</h1>
-<h3 align="center">Software Development Aspirant, </h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Aditya Shaw</h1>
+<h3 align="center">Software Development Enthusiast, Web Development Enthusiast </h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=shawcodesdev">
