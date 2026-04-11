@@ -16,7 +16,7 @@
 
 
 ## 🧠 My Focus Areas
-- Web development
+- FullStack Web development
 - Software development
 
 
