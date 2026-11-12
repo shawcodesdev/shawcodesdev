@@ -44,20 +44,26 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> 
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="48" height="48" style="margin: 4px;" /> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="48" height="48" style="margin: 4px;" />
+  
 </p>
 
 > ## Backend
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" />
+<img src="https://devicon-website.vercel.app/api/mongodb/plain-wordmark.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
+</p>
 
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Vite_Logo_2026.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Vite" width="48" height="48" style="margin: 4px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Ubuntu" width="48" height="48" style="margin: 4px;" />
+</p>
 
 <p align="center">
   <a href="https://github.com/shawcodesdev">
